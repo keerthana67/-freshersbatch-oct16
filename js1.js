@@ -10,7 +10,8 @@
 <script>
 let x = 5;
 let y = 2;
-let z = x + y;
+let m = 2;
+let z = x + y + m;
 document.getElementById("demo").innerHTML = z;
 </script>
 

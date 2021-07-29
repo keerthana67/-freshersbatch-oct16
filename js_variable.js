@@ -8,8 +8,8 @@
 
 <script>
 // Create and display a variable:
-let car = "Fiat";
-document.getElementById("demo").innerHTML = car;
+let CAR = "Fiat";
+document.getElementById("demo").innerHTML = CAR;
 </script>
 
 </body>
